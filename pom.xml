@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.skjolber.histogram</groupId>
 	<artifactId>inline</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>inline-histogram</name>
 	<description>Simple inline histogram utility</description>
 	<url>https://github.com/skjolber/inline-histogram</url>
@@ -31,7 +31,7 @@
 		<connection>scm:git:git@github.com:skjolber/inline-histogram.git</connection>
 		<developerConnection>scm:git:git@github.com:skjolber/inline-histogram.git</developerConnection>
 		<url>git@github.com:skjolber/inline-histogram.git</url>
-		<tag>HEAD</tag>
+		<tag>inline-1.0.0</tag>
 	</scm>
 
 	<issueManagement>
