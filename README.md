@@ -1,3 +1,7 @@
+![Build Status](https://github.com/skjolber/inline-histogram/actions/workflows/maven.yml/badge.svg) 
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skjolber.histogram/inline.svg)](https://mvnrepository.com/artifact/com.github.skjolber.histogram/inline)
+
+
 # inline-histogram
 Simple utility for visualizing a histogram in a single line of text, using [box-drawing-characters](https://en.wikipedia.org/wiki/Box-drawing_character). 
 
